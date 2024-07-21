@@ -1,0 +1,1 @@
+Esse projeto foi criado nas aulas de Laboratório de Banco de Dados, no 5º Semestre da minha faculdade de Análise e Desenvolvimento de Sistemas. Nesse projeto tem o esquema do banco de dados e o script, contendo desde a criação das tabelas, inserts, até os selects no fim do código.
